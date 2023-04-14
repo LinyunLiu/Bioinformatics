@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Sclerotinia sclerotiorum 1980 UF-70		strain: 1980	665079	ASM14694v2	GCA_000146945.2	GenBank	Annotation submitted by Broad Institute	Scaffold	122550	38330312	2015-07-16	14715	PRJNA15530	SAMN02953621
+Sclerotinia sclerotiorum 1980 UF-70		strain: 1980	665079	ASM14694v2	GCF_000146945.2	RefSeq	Annotation submitted by Broad Institute	Scaffold	122550	38330312	2015-07-16	14714	PRJNA15530	SAMN02953621

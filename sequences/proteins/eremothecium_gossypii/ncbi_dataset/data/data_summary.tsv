@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Eremothecium gossypii ATCC 10895		strain: ATCC 10895	284811	ASM9102v4	GCA_000091025.4	GenBank	Annotation submitted by Biozentrum, University of Basel, Switzerland	Complete Genome	1519140	9095748	2010-10-18	5331	PRJNA13834	SAMN03081415
+Eremothecium gossypii ATCC 10895		strain: ATCC 10895	284811	ASM9102v4	GCF_000091025.4	RefSeq	Annotation submitted by Biozentrum, University of Basel, Switzerland	Complete Genome	1519140	9095748	2010-10-18	5356	PRJNA13834	SAMN03081415

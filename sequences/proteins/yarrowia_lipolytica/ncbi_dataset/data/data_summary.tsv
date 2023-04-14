@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Yarrowia lipolytica CLIB122		strain: CLIB122	284591	ASM252v1	GCA_000002525.1	GenBank	Annotation submitted by Genolevures Consortium	Chromosome	2069334	20502981	2004-07-02	7334	PRJNA13837	SAMEA3138171
+Yarrowia lipolytica CLIB122		strain: CLIB122	284591	ASM252v1	GCF_000002525.2	RefSeq	Annotation submitted by Genolevures Consortium	Chromosome	2069334	20502981	2004-07-02	7144	PRJNA13837	SAMEA3138171

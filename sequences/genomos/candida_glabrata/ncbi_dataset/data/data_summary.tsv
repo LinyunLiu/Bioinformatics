@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Nakaseomyces glabratus		strain: CBS 138	5478	ASM254v2	GCA_000002545.2	GenBank	Annotation submitted by Genolevures Consortium	Chromosome	1100349	12318245	2008-08-12	5464	PRJNA13831	SAMEA3138172
+Nakaseomyces glabratus		strain: CBS 138	5478	ASM254v2	GCF_000002545.3	RefSeq	Annotation submitted by Genolevures Consortium	Chromosome	1100349	12318245	2008-08-12	5458	PRJNA13831	SAMEA3138172

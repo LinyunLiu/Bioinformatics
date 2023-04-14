@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Saccharomyces paradoxus		strain: CBS432	27291	ASM207905v1	GCA_002079055.1	GenBank	Annotation submitted by SC	Chromosome	835812	12021328	2017-03-21	5803	PRJEB7245	SAMEA2757769
+Saccharomyces paradoxus		strain: CBS432	27291	ASM207905v1	GCF_002079055.1	RefSeq	Annotation submitted by SC	Chromosome	835812	12021328	2017-03-21	5840	PRJEB7245	SAMEA2757769

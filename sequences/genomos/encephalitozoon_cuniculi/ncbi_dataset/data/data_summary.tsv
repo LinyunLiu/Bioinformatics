@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Encephalitozoon cuniculi GB-M1		isolate: GB-M1	284813	ASM9122v2	GCA_000091225.2	GenBank	Annotation submitted by Genoscope	Chromosome	218329	2497519	2017-03-09	2159	PRJNA13833	SAMEA3138295
+Encephalitozoon cuniculi GB-M1		isolate: GB-M1	284813	ASM9122v2	GCF_000091225.2	RefSeq	Annotation submitted by Genoscope	Chromosome	218329	2497519	2017-03-09	2155	PRJNA13833	SAMEA3138295

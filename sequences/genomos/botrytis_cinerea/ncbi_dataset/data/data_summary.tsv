@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Botrytis cinerea B05.10		strain: B05.10	332648	ASM14353v4	GCA_000143535.4	GenBank	Annotation submitted by Syngenta Biotechnology, Inc.	Complete Genome	2617329	42630066	2015-02-05	11703	PRJNA15632	SAMN02953628
+Botrytis cinerea B05.10		strain: B05.10	332648	ASM14353v4	GCF_000143535.2	RefSeq	Annotation submitted by Syngenta Biotechnology, Inc.	Complete Genome	2617329	42630066	2015-02-05	11698	PRJNA15632	SAMN02953628

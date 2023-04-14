@@ -1,0 +1,31 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "data_summary.tsv",
+      "fileType": "DATA_TABLE"
+    },
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000146945.2",
+  "files": [
+    {
+      "filePath": "GCA_000146945.2/protein.faa",
+      "fileType": "PROTEIN_FASTA"
+    }
+  ]
+},{
+  "accession": "GCF_000146945.2",
+  "files": [
+    {
+      "filePath": "GCF_000146945.2/protein.faa",
+      "fileType": "PROTEIN_FASTA"
+    }
+  ]
+}]}

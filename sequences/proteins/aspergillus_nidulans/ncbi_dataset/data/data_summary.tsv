@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Aspergillus nidulans FGSC A4		strain: FGSC A4	227321	ASM1142v1	GCA_000011425.1	GenBank	Annotation submitted by Eurofungbase (Eurofung)	Chromosome	679860	29828291	2009-09-24	10597	PRJEA40559	SAMEA2272224
+Aspergillus nidulans FGSC A4		strain: FGSC A4	227321	ASM1142v1	GCF_000011425.1	RefSeq	Annotation submitted by Eurofungbase (Eurofung)	Chromosome	679860	29828291	2009-09-24	10518	PRJEA40559	SAMEA2272224
