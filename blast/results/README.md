@@ -1,4 +1,4 @@
-==FOLDER DESCRIPTION==
+FOLDER DESCRIPTION
 
 # saccharomyces_cerevisiae
 this folder contains blast results from the NCBI blast software for saccharomyces_cerevisiae
