@@ -35,15 +35,15 @@ ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
 # COMMAND LINE USAGE
 ### 1. Making BLAST database of local sequences
 The input file must consist of sequences in FASTA format.
-`$ makeblastdb -in Aspergillus_nidulans.fasta -parse_seqids -dbtype prot -out /Users/linyunliu/Desktop/blastpdb/blastpdb`
+`$ makeblastdb -in sequence.fasta -parse_seqids -dbtype prot -out /PATH/TO/YOUR/DTATABASE`
 Here, -parse_seqids is used because it may later help in parsing the sequence ids of the given sequences for further analyses. -in refers to the input file, -dbtype can be protein or nucleotide and -out is the name of the BLAST database to be created. If your input file is present in another directory then provide the complete path.
 
 ### 2. BLAST the local database against a single sequence
-`$ blastp -db /Users/linyunliu/Desktop/blastpdb/blastpdb -query seq.fasta -outfmt 0 -out result.txt`
-`$ blastp -db /Users/linyunliu/Desktop/blastpdb/blastpdb -query seq.fasta -outfmt 5 -out result.xml`
+`$ blastp -db /PATH/TO/YOUR/DTATABASE -query seq.fasta -outfmt 0 -out result.txt`
+`$ blastp -db /PATH/TO/YOUR/DTATABASE -query seq.fasta -outfmt 5 -out result.xml`
 where, -db is the BLAST database created in the previous step, -query is a file consisting of FASTA sequence, -outfmt is the output format which can be defined in several ways as shown here, and -numthreads refers to the number of CPUs to be used during the search. In the case of nucleotide sequences, use blastn or any other appropriate blast executable.
 
 ### 3. All against all
 To BLAST local sequences against the local database created from the same input sequences, the input sequences are used as a query file in FASTA format.
-`$ blastp -db blastdb -query input.fasta -outfmt 0 -out result.txt`
+`$ blastp -db blastdb -query sequence.fasta -outfmt 0 -out result.txt`
 As you can see in the above command, the database is the same local database created in the first step and the query are the input sequences from which the local database was created in the first place.
