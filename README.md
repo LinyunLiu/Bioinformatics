@@ -3,7 +3,7 @@
 **Linyun Liu, Tarandeep Kaur, Shika borge**
 ## Research Question
 How can analyzing protein sequences between  Saccharomyces Cerevisiae, Schizosaccharomyces Pombe and other fungi species reveals the evolutionary relationships?
-## Objectives
+## Objective
 To construct phylogenetic tree from protein clusters using maximum likelihood method to reveal evolutionary relationship between Saccharomyces Cerevisiae,  Schizosaccharomyces Pombe and other Fungi species
 
 	
