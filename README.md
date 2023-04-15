@@ -4,10 +4,14 @@
 ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/				
 							
 # REFERENCES
-[1. Blast Software General Introduction](https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html#blast-executables)
-[2. How to blast against a particular set of local sequences (local database)?](https://bioinformaticsreview.com/20190927/how-to-blast-against-a-particular-set-of-local-sequences-local-database/) 
-[3. Building a BLAST database with your (local) sequences](https://www.ncbi.nlm.nih.gov/books/NBK569841/)
-[4. Blast Command Line Tool User Mannual:](https://www.ncbi.nlm.nih.gov/books/NBK279684/)
+[1. Blast Software General Introduction](https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html#blast-executables)    
+
+[2. How to blast against a particular set of local sequences (local database)?](https://bioinformaticsreview.com/20190927/how-to-blast-against-a-particular-set-of-local-sequences-local-database/)   
+
+[3. Building a BLAST database with your (local) sequences](https://www.ncbi.nlm.nih.gov/books/NBK569841/)   
+
+[4. Blast Command Line Tool User Mannual:](https://www.ncbi.nlm.nih.gov/books/NBK279684/)   
+
 
 # ALIGNMENT FILE OUTPUT OPTIONS (-outfmt x)
 | x | Description |
