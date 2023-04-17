@@ -1,6 +1,6 @@
 # ABOUT
 ## Contribution
-**Linyun Liu, Tarandeep Kaur, Shika borge**
+**Linyun Liu, Tarandeep Kaur, Shika Borge**
 ## Research Question
 How can analyzing protein sequences between  Saccharomyces Cerevisiae, Schizosaccharomyces Pombe and other fungi species reveals the evolutionary relationships?
 ## Objective
